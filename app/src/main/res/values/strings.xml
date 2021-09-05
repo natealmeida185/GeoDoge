@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoDoge</string>
+    <string name="btnSignUp1">Register</string>
+    <string name="btnSignUp2">Need to Register?</string>
+    <string name="btnSignIn1">Sign In</string>
+    <string name="btnSignIn2">Already a User? Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="retypePassword">Retype Password</string>
+    <string name="iconDesc">GEOCode Icon</string>
+    <string-array name="locations">
+        <item>Nelson Memorial Park </item>
+        <item>Ellisville Harbor State Park</item>
+        <item>Morton Park</item>
+        <item>Pilgrim Memorial State Park</item>
+        <item>Brewster Gardens</item>
+    </string-array>
+    <string name="txtCoord1">Your Coordinate:</string>
+    <string name="txtCoord2">Selected Park:</string>
+    <string name="updateCoord">Update Your Coordinate</string>
+    <string name="displaySelected">Display Selected Location</string>
+    <string name="locationCoord"></string>
+    <string name="checkCoords">Check Coordinate Connection</string>
+    <string name="mapKey" translatable="false">AIzaSyBLadD35_Y3Sk6Lub5aDox0ZxgSt63eQh4</string>
+</resources>
